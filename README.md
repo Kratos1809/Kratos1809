@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">
-  Hey , Rajiul Islam aka Kratos
+  Hey , I'm Rajiul Islam aka Kratos
   <a href="#"><img src="https://media.giphy.com/media/CXzRJA18RJAtmpPNBC/giphy.gif" width="48"></a>
 </h1>
 
